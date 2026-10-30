@@ -1,0 +1,4 @@
+
+# LinkSentry uses Python built-in libraries only.
+# No additional packages are required.
+# No third-party packages are required.
